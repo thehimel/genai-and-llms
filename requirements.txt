@@ -1,3 +1,7 @@
 pytest
 black
 isort
+
+# remove_bg
+rembg
+pillow
